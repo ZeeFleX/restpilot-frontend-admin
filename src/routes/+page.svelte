@@ -1,7 +1,7 @@
 <script lang="ts">
 </script>
 
-<div>Главная страница</div>
+<div>Админка</div>
 
 <style lang="postcss">
 	@tailwind utilities;
